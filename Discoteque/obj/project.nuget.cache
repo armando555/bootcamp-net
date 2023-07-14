@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9aTdCfrq+x1W9ihojuqZI80z6wSf3bzNAzLXZeWLQytyvJ9tfoEoH/10kxQDlSl7OLeH/Gd1k5BUQwaLXQ1z0g==",
+  "success": true,
+  "projectFilePath": "/home/ariosg/Documents/bootcamp_net/bootcamp-net/Discoteque/Discoteque.csproj",
+  "expectedPackageFiles": [
+    "/home/ariosg/.nuget/packages/microsoft.aspnetcore.openapi/7.0.8/microsoft.aspnetcore.openapi.7.0.8.nupkg.sha512",
+    "/home/ariosg/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/ariosg/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/ariosg/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/ariosg/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/ariosg/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/ariosg/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

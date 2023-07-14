@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ncMROmnggVbdc9CZw3xvSB8duLN/vxfUTroAQQJbtmMDo+BpOzbJSDljM06Iyd/WNK0CcSC+j8miuUs8Px7frA==",
+  "success": true,
+  "projectFilePath": "/home/ariosg/Documents/bootcamp_net/discoapp/Discoteque.Business/Discoteque.Business.csproj",
+  "expectedPackageFiles": [
+    "/home/ariosg/.nuget/packages/microsoft.netcore.app.ref/7.0.8/microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "/home/ariosg/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.8/microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
